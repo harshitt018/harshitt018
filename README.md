@@ -6,7 +6,7 @@
 
 <p>
 🎓 <strong>BSc IT Student</strong> | 💻 <strong>Aspiring Data Scientist</strong><br>
-📍 <strong>MVLU College</strong>
+📍 <strong>MVLU College, Mumbai</strong>
 </p>
 
 
