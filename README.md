@@ -1,7 +1,13 @@
-## Hi there 👋 
-## My name is Harshit Jaiswal
-* 🎓 BSc IT Student | 💻 Aspiring Data Scientist
-* 📍 MVLU College
+<h1>👋 Hello There!</h1>
+<h2>My name is Harshit Jaiswal</h2>
+<div align="center">
+  <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="Coder Gif" style="width:300px;"/>
+</div>
+
+<p>
+🎓 <strong>BSc IT Student</strong> | 💻 <strong>Aspiring Data Scientist</strong><br>
+📍 <strong>MVLU College</strong>
+</p>
 
 
 ## 💫 About Me:
