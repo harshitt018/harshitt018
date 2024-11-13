@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Harshit Jaiswal</h1> <div align="center"> 
-<img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="Coder Gif" style="width:500px;"/> 
+<img src="coder.gif" alt="Coder Gif" style="width:500px;"/> 
 </div> <h3 align="center">🎓 BSc IT Student | 💻 Aspiring Data Scientist | 📍 Mumbai</h3>
 
 
