@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Harshit Jaiswal</h1> <div align="center"> 
 <img src="coder.gif" alt="Coder Gif" style="width:400px;"/> 
-</div> <h3 align="center">🎓 BSc IT Student | 💻 Aspiring Data Scientist | 📍 Mumbai</h3>
+</div> <h3 align="center">🎓 BSc IT Student | 💻 Aspiring Data Scientist | 📍 MVLU College, Mumbai</h3>
 
 
 ## 💫 About Me:
