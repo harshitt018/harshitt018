@@ -1,18 +1,11 @@
-<h1>👋 Hello There!</h1>
-<h2>My name is Harshit Jaiswal</h2>
-<div align="center">
-  <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="Coder Gif" style="width:300px;"/>
-</div>
-
-<p>
-🎓 <strong>BSc IT Student</strong> | 💻 <strong>Aspiring Data Scientist</strong><br>
-📍 <strong>MVLU College, Mumbai</strong>
-</p>
+<h1 align="center">👋 Hello, I'm Harshit Jaiswal</h1> <div align="center"> 
+<img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="Coder Gif" style="width:500px;"/> 
+</div> <h3 align="center">🎓 BSc IT Student | 💻 Aspiring Data Scientist | 📍 Mumbai</h3>
 
 
 ## 💫 About Me:
-
-🔭 I’m currently Learning Deep Learning and Building Skills in Neural Networks and AI.<br>🤝 I’m looking for help with Backend<br>💬 Ask me about Python, ML, React etc<br>📫 How to reach me : jaiswalharshit444@gmail.com<br>
+👩🏻‍💻 I am a Second year Information Technology Undergraduate (Bsc.IT) at **[University of Mumbai](https://mu.ac.in/)**<br>
+🔭 I’m Learning Deep Learning and Building Skills in Neural Networks and AI.<br>🤝 I’m looking for help with Backend<br>💬 Ask me about Python, ML, React etc<br>📫 How to reach me : jaiswalharshit444@gmail.com<br>
 
 
 ## 🌐 Socials:
