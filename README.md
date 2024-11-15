@@ -60,5 +60,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=harshitt018&icon=5&color=1)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/harshitt018/harshitt018/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/harshitt018/harshitt018/blob/output/github-snake-dark.svg)
 
