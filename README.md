@@ -9,9 +9,9 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.instagram.com/harshitttt018/" target="_blank" style="text-decoration: none; font-weight: bold;">
+<a href="https://www.instagram.com/harshitttt.018/" target="_blank" style="text-decoration: none; font-weight: bold;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:40px; height:40px; margin: 10px; vertical-align: middle;">
-<a href="www.linkedin.com/in/harshit-jaiswal-a05835298" target="_blank" style="text-decoration: none; font-weight: bold;">
+<a href="https://www.linkedin.com/in/harshit-jaiswal-a05835298/" target="_blank" style="text-decoration: none; font-weight: bold;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:40px; height:40px margin: 10px; ; vertical-align: middle;">
 
 # 💻 Tech Stack:
