@@ -1,22 +1,33 @@
-<h1 align="center">👋 Hello, I'm Harshit Jaiswal</h1> <div align="center"> 
+<h1 align="center">👋 Hello, I'm **Harshit Jaiswal**</h1> 
 <div align="center">
-        <img src="coder.gif" alt="Coder Gif" style="width:200px;"/> 
+    <img src="coder.gif" alt="Coder Gif" style="width:500px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
 </div>
-<h3 align="center">🎓 BSc IT Student | 💻 Aspiring Data Scientist | 📍 MVLU College, Mumbai</h3>
+<h3 align="center">🎓 **BSc IT Student | 💻 Aspiring Data Scientist | 📍 MVLU College, Mumbai**</h3>
 
+---
 
-## 💫 About Me:
-👩🏻‍💻 I am a Second year Information Technology Undergraduate (Bsc.IT) at **[University of Mumbai](https://mu.ac.in/)**<br>
-🔭 I’m Learning Deep Learning and Building Skills in Neural Networks and AI.<br>🤝 I’m looking for help with Backend<br>💬 Ask me about Python, ML, React etc<br>📫 How to reach me : jaiswalharshit444@gmail.com<br>
+## 💫 **About Me**:
+- 👩🏻‍💻 **Second-year Information Technology Undergraduate (Bsc.IT)** at **[University of Mumbai](https://mu.ac.in/)**.<br>
+- 🔭 **Currently learning**: Deep Learning, Neural Networks, and AI.<br> 
+- 🤝 **Seeking support with**: Backend Development.<br>
+- 💬 **Ask me about**: **Python, Machine Learning, React**, and more.<br>
+- 📫 **Reach me at**: [jaiswalharshit444@gmail.com](mailto:jaiswalharshit444@gmail.com).
 
+---
 
-## 🌐 Socials:
-<a href="https://www.instagram.com/harshitttt.018/" target="_blank" style="text-decoration: none; font-weight: bold;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:40px; height:40px; margin: 10px; vertical-align: middle;">
-<a href="https://www.linkedin.com/in/harshit-jaiswal-a05835298/" target="_blank" style="text-decoration: none; font-weight: bold;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:40px; height:40px margin: 10px; ; vertical-align: middle;">
+## 🌐 **Connect with Me**:
+<div align="center">
+    <a href="https://www.instagram.com/harshitttt.018/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:40px; height:40px; margin: 10px;">
+    </a>
+    <a href="https://www.linkedin.com/in/harshit-jaiswal-a05835298/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:40px; height:40px; margin: 10px;">
+    </a>
+</div>
 
-# 💻 Tech Stack:
+---
+
+## 💻 **Tech Stack**:
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -40,32 +51,47 @@
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50" /></a> <img src="GitHub 1.png" alt="Coder Gif" style="width:50px;"/>
 </div>
 
-</td><td valign="top" width="20%">
+---
 
-# 📊 GitHub Stats:
+## 📊 **GitHub Stats**:
 <div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=harshitt018&theme=blue-green&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitt018&theme=blue-green&hide_border=true" alt="GitHub Streak"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitt018&theme=blue-green&hide_border=true&layout=compact" alt="Top Languages"/>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=harshitt018&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshitt018&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitt018&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<div/>
+## 🏆 **GitHub Trophies**:
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=harshitt018&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshitt018&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️ **Random Dev Quote**:
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshitt018&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-[![](https://visitcount.itsvg.in/api?id=harshitt018&icon=5&color=1)](https://visitcount.itsvg.in)
+### 🔝 **Top Contributed Repo**:
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=harshitt018&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos"/>
+</div>
 
+---
+## 🌟 **Visitor Count**:
+<div align="center">
+        
+[![](https://visitcount.itsvg.in/api?id=harshitt018&icon=5&color=1)](https://visitcount.itsvg.in)  
+👀 **Total Visitors So Far!**
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitt018/harshitt018/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitt018/harshitt018/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/harshitt018/harshitt018/output/github-snake.svg" />
 </picture>
-
