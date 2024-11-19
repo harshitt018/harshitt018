@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Harshit Jaiswal</h1>
-<img src="coder.gif" alt="Coder Gif" style="width:400px;"/> 
+<img src="banner.jpg" alt="Banner" style="width:400px;"/> 
 
 <div align="center"> 
         <img src="coder.gif" alt="Coder Gif" style="width:400px;"/> 
