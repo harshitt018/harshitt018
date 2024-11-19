@@ -23,7 +23,7 @@
     <a href="https://www.linkedin.com/in/harshit-jaiswal-a05835298/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:40px; height:40px; margin: 10px;">
     </a>
-</div>
+
 
 ---
 
