@@ -1,7 +1,4 @@
-<div align="center">
-        <img src="banner.jpg" alt="Banner" style="width:500px;"/> 
-</div>
-
+<h1 align="center">👋 Hello, I'm Harshit Jaiswal</h1> <div align="center"> 
 <div align="center">
         <img src="coder.gif" alt="Coder Gif" style="width:200px;"/> 
 </div>
