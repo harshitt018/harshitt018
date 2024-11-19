@@ -82,14 +82,17 @@
 </div>
 
 ---
+
 ## 🌟 **Visitor Count**:
 <div align="center">
         
 [![](https://visitcount.itsvg.in/api?id=harshitt018&icon=5&color=1)](https://visitcount.itsvg.in)  
 👀 **Total Visitors So Far!**
+</div>
 
 ---
 
+## 🐍 GitHub Contribution Snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitt018/harshitt018/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitt018/harshitt018/output/github-snake.svg" />
