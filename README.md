@@ -2,7 +2,7 @@
 <div align="center">
     <img src="coder.gif" alt="Coder Gif" style="width:500px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
 </div>
-<h3 align="center">🎓 **BSc IT Student | 💻 Aspiring Data Scientist | 📍 MVLU College, Mumbai**</h3>
+<h3 align="center">🎓 BSc IT Student | 💻 Aspiring Data Scientist | 📍 MVLU College, Mumbai</h3>
 
 ---
 
