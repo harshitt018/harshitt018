@@ -7,7 +7,7 @@
 ---
 
 ## 💫 **About Me**:
-- 👩🏻‍💻 **Second-year Information Technology Undergraduate (Bsc.IT)** at **[University of Mumbai](https://mu.ac.in/)**.<br>
+- 👩🏻‍💻 **Third-year Information Technology Undergraduate (Bsc.IT)** at **[University of Mumbai](https://mu.ac.in/)**.<br>
 - 🔭 **Currently learning**: Deep Learning, Neural Networks, and AI.<br> 
 - 🤝 **Seeking support with**: Backend Development.<br>
 - 💬 **Ask me about**: **Python, Machine Learning, React**, and more.<br>
