@@ -11,7 +11,7 @@
 - 🔭 **Currently learning**: Deep Learning, Neural Networks, and AI.<br> 
 - 🤝 **Seeking support with**: Backend Development.<br>
 - 💬 **Ask me about**: **Python, Machine Learning, React**, and more.<br>
-- 📫 **Reach me at**: [jaiswalharshit444@gmail.com](mailto:jaiswalharshit444@gmail.com).
+- 📫 **Reach me at**: [bscit.harshitjaiswal@gmail.com](mailto:bscit.harshitjaiswal@gmail.com).
 
 ---
 
