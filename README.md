@@ -1,17 +1,82 @@
-<h1 align="center">👋 Hello, I'm Harshit Jaiswal </h1> 
-<div align="center">
-    <img src="coder.gif" alt="Coder Gif" style="width:500px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
-</div>
-<h3 align="center">🎓 BSc IT Student | 💻 Data Science Student | 📍 MVLU College, Mumbai</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=0:36D1DC,100:5B86E5&section=header&text=Harshit%20Jaiswal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=52"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+%26+Deep+Learning;Published+Researcher+-+IJAIR+2026;Building+Real-World+AI+Solutions;Always+Learning,+Always+Building"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+<p align="center">
+  🎓 BSc IT Student @ <a href="https://mvlucollege.in/">MVLU College</a>
+</p>
+
+<p align="center">
+📍 Mumbai, India
+</p>
+
+<p align="center">
+  <a href="mailto:jaiswalharshit444@gmail.com" title="Mail • jaiswalharshit444@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/harshit-jaiswal-hj18032005/" title="LinkedIn • Harshit Jaiswal">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/harshitt018" title="Github • harshitt018">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/harshitttt.018/" title="Instagram • @harshitttt.018">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+</p>
 
 ---
 
-## 💫 **About Me**:
-- 👩🏻‍💻 **Third-year Information Technology Undergraduate (Bsc.IT)** at **[University of Mumbai](https://mu.ac.in/)**.<br>
-- 🔭 **Currently learning**: Deep Learning, Neural Networks, and AI.<br> 
-- 🤝 **Seeking support with**: Backend Development.<br>
-- 💬 **Ask me about**: **Python, Machine Learning, React**, and more.<br>
-- 📫 **Contact me at**: [bscit.harshitjaiswal@gmail.com](mailto:bscit.harshitjaiswal@gmail.com).
+## 👨‍💻 Who Am I?
+
+### 🚀 About Me
+
+```yaml
+About:
+• Bachelor's Degree in Information Technology (2026)
+
+• Interested in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
+
+• Built multiple end-to-end projects across AI and Data Science domains
+
+• Published Research Paper in IJAIR (2026)
+
+• Passionate about research, innovation, and problem-solving
+
+• Exploring emerging technologies and advanced AI concepts
+
+• Aspiring to build impactful and intelligent real-world solutions
+
+```
+
+### 🎓 Education
+
+```yaml
+Degree:
+  Bachelor of Science in Information Technology (B.Sc IT)
+
+Institution:
+  Sheth L.U.J. College of Arts &
+  Sir M.V. College of Science and Commerce
+
+Duration:
+  2023 - 2026
+
+University:
+  University of Mumbai
+```
 
 ---
 
