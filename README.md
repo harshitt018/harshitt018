@@ -8,6 +8,8 @@
   </a>
 </p>
 
+<br/>
+
 <p align="center">
   🎓 BSc IT Student @ <a href="https://mvlucollege.in/">MVLU College</a>
 </p>
@@ -37,9 +39,7 @@
   </a>
 </p>
 
----
-
-## 👨‍💻 Who Am I?
+<br/>
 
 <h2>🚀 About Me</h2>
 
@@ -60,7 +60,7 @@ About:
 • Aspiring to build impactful and intelligent real-world solutions
 
 ```
-
+<br/>
 <h2>🎓 Education</h2>
 
 ```yaml
@@ -78,7 +78,7 @@ University:
   University of Mumbai
 ```
 
----
+<br/>
 
 <h2>🌟 Featured Projects</h2>
 
@@ -98,46 +98,48 @@ University:
 </tr>
 </table>
 
----
+<br/>
 
-## 📄 Publication
+## 📄 Research Publication
 
-### Real-Time Music Genre Classification using CNN and MFCC for Interactive Systems
+This repository accompanies the published research paper:
 
-*International Journal of Advance and Innovative Research (IJAIR)*  
-**Volume 13, Issue 1 (XIII)** • **January – March 2026**  
-**ISSN:** 2394-7780
+**A T5-Based Transformer Model for Interpretable Bidirectional Translation of Informal Gen-Z Language**
 
-🔗 **[Read the Published Issue](PASTE_YOUR_PAPER_LINK_HERE)**
+*International Journal of Advance and Innovative Research (IJAIR), Volume 13, Issue 1 (XIII), January–March 2026*
+
+**Authors:** Harshit Jaiswal, Sumitkumar Tripathi, Dr. Mahendra K. Kanojia
+
+📖 **Published Paper:** https://iaraedu.com/about-journal/ijair-volume-13-issue-1-xiii-january-march-2026.php
+
+🔗 **DOI:** https://zenodo.org/records/20354105
+
+🎤 **Presented At:** ICMVLU 2026 Conference (28 February 2026)
+
+<div align="center">
 
 ## 📬 Let's Connect
 
-<p align="center">
+  <p align="center">
+  
   <a href="https://www.linkedin.com/in/harshit-jaiswal-hj18032005/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
+  
   <a href="mailto:jaiswalharshit444@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
+  
+  </p>
 
----
-
-## 🌐 **Connect with Me**:
-<div align="center">
-  <a href="https://www.linkedin.com/in/harshit-jaiswal-a05835298/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/harshit_2005_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/harshitttt.018/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <p align="center">
+    <sub>
+      Thank you for reading this research. Academic discussions, collaborations, and feedback are always welcome.
+    </sub>
+  </p>
 </div>
 
----
+</br>
 
 ## 🛠️ Tech Stack
 
