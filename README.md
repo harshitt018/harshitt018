@@ -194,7 +194,8 @@ This repository accompanies the published research paper:
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
----
+
+<br/>
 
 ## 📊 GitHub Analytics
 
@@ -212,27 +213,37 @@ This repository accompanies the published research paper:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitt018&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
 </p>
 
----
+<br/>
 
 ### ✍️ **Random Dev Quote**:
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 </div>
 
----
+<br/>
 
-## 🌟 Profile Views
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshitt018&label=PROFILE+VIEWS&color=36D1DC&style=flat" />
-  <img src="https://img.shields.io/github/followers/harshitt018?label=Followers&style=flat&color=36D1DC" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=36D1DC&center=true&vCenter=true&width=850&lines=Every+commit+tells+a+story.;Transforming+data+into+meaningful+insights.;Building+real-world+AI+solutions.;Published+Researcher+%E2%80%A2+IJAIR+2026.;Machine+Learning+is+where+logic+meets+creativity.;Exploring+Data+Science%2C+Deep+Learning+%26+AI.;Research.+Build.+Learn.+Repeat.;Turning+ideas+into+intelligent+applications.;Always+Learning%2C+Always+Building." />
 </p>
 
----
+<p align="center">
+  <b>⚡ My contribution journey, one commit at a time.</b>
+</p>
 
-## 🐍 GitHub Contribution Snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitt018/harshitt018/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitt018/harshitt018/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/harshitt018/harshitt018/output/github-snake.svg" />
 </picture>
+
+<p align="center">
+  <sub>
+    Turning ideas into intelligent solutions through Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.
+  </sub>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshitt018&label=PROFILE+VIEWS&color=36D1DC&style=flat-square" />
+</p>
