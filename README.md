@@ -41,7 +41,7 @@
 
 ## 👨‍💻 Who Am I?
 
-### 🚀 About Me
+<h2>🚀 About Me</h2>
 
 ```yaml
 About:
@@ -61,7 +61,7 @@ About:
 
 ```
 
-### 🎓 Education
+<h2>🎓 Education</h2>
 
 ```yaml
 Degree:
@@ -100,6 +100,30 @@ University:
 
 ---
 
+## 📄 Publication
+
+### Real-Time Music Genre Classification using CNN and MFCC for Interactive Systems
+
+*International Journal of Advance and Innovative Research (IJAIR)*  
+**Volume 13, Issue 1 (XIII)** • **January – March 2026**  
+**ISSN:** 2394-7780
+
+🔗 **[Read the Published Issue](PASTE_YOUR_PAPER_LINK_HERE)**
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-jaiswal-hj18032005/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:jaiswalharshit444@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🌐 **Connect with Me**:
 <div align="center">
   <a href="https://www.linkedin.com/in/harshit-jaiswal-a05835298/" target="_blank">
@@ -114,8 +138,6 @@ University:
 </div>
 
 ---
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
@@ -172,19 +194,21 @@ University:
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ---
 
-## 📊 **GitHub Stats**:
-<div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=harshitt018&theme=blue-green&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitt018&theme=blue-green&hide_border=true" alt="GitHub Streak"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitt018&theme=blue-green&hide_border=true&layout=compact" alt="Top Languages"/>
-</div>
+## 📊 GitHub Analytics
 
----
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshitt018&theme=blue-green&hide_border=true&count_private=true&include_all_commits=true" />
 
-## 🏆 **GitHub Trophies**:
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshitt018&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitt018&theme=blue-green&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitt018&theme=blue-green&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitt018&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
+</p>
 
 ---
 
@@ -195,22 +219,12 @@ University:
 
 ---
 
-### 🔝 **Top Contributed Repo**:
-<div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=harshitt018&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos"/>
-</div>
+## 🌟 Profile Views
 
----
-
-## 🌟 **Visitor Count**:
-👀 **Total Visitors So Far!**
-<div align="center">
-  <img src="https://profile-counter.glitch.me/harshitt018/count.svg?"  />
-</div>
-        
-[![](https://visitcount.itsvg.in/api?id=harshitt018&icon=5&color=1)](https://visitcount.itsvg.in)  
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshitt018&label=PROFILE+VIEWS&color=36D1DC&style=flat" />
+  <img src="https://img.shields.io/github/followers/harshitt018?label=Followers&style=flat&color=36D1DC" />
+</p>
 
 ---
 
