@@ -84,17 +84,47 @@ University:
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
+
+<h3>🧠 Gen-Z Language Translator</h3>
+
+<p>
+A Transformer-based NLP system for bidirectional translation between
+Gen-Z slang and Standard English. Built using T5 architecture with
+lexical augmentation, explainable AI techniques, and evaluation using BLEU scores.
+</p>
+
+<p>
+<b>Tech:</b> Python • TensorFlow • NLP • Transformers • Deep Learning
+</p>
+
 <a href="https://github.com/harshitt018/T5-Based-Transformer-Model-for-Interpretable-Bidirectional-Translation-of-Informal-Gen-Z-Language">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitt018&repo=T5-Based-Transformer-Model-for-Interpretable-Bidirectional-Translation-of-Informal-Gen-Z-Language&theme=tokyonight&hide_border=true" />
+🔗 View Repository
 </a>
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+<h3>📊 Advance Data Science</h3>
+
+<p>
+A comprehensive collection of Machine Learning, Deep Learning, NLP,
+Computer Vision, Time Series Forecasting, GANs, Autoencoders,
+Transformers, YOLO, and Generative AI implementations.
+</p>
+
+<p>
+<b>Tech:</b> Python • TensorFlow • PyTorch • Scikit-Learn • OpenCV
+</p>
+
 <a href="https://github.com/harshitt018/Advance-Data-Science">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitt018&repo=Advance-Data-Science&theme=tokyonight&hide_border=true" />
+🔗 View Repository
 </a>
+
 </td>
+
 </tr>
 </table>
 
@@ -200,17 +230,17 @@ This repository accompanies the published research paper:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshitt018&theme=blue-green&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshitt018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitt018&theme=blue-green&hide_border=true&layout=compact" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshitt018&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitt018&theme=blue-green&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=harshitt018&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitt018&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitt018&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <br/>
