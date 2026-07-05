@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  🎓 BSc IT Student @ <a href="https://mvlucollege.in/">MVLU College</a>
+  🎓 M.Sc (Data Science) Student @ <a href="https://www.nmims.edu/">NMIMS</a>
 </p>
 
 <p align="center">
