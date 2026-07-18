@@ -2,16 +2,16 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+%26+Deep+Learning;Published+Researcher+-+IJAIR+2026;Building+Real-World+AI+Solutions;Always+Learning,+Always+Building"
-      alt="Typing SVG"
-    />
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=M.Sc.+Data+Science+Student+%40+SVKM's+NMIMS;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+Generative+AI;Published+Researcher+-+IJAIR+2026;Building+Intelligent+AI+Solutions;Research.+Build.+Learn.+Repeat."
+  alt="Typing SVG"
+/>
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  🎓 M.Sc (Data Science) Student @ <a href="https://www.nmims.edu/">NMIMS</a>
+  🎓 🎓 M.Sc. Data Science Student @ <a href="https://www.nmims.edu/">SVKM's NMIMS</a>, Mumbai
 </p>
 
 <p align="center">
@@ -45,38 +45,41 @@
 
 ```yaml
 About:
-• Bachelor's Degree in Information Technology (2026)
+• M.Sc. Data Science Student at SVKM's NMIMS, Mumbai
 
-• Interested in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
+• B.Sc. Information Technology Graduate
 
-• Built multiple end-to-end projects across AI and Data Science domains
+• Published Researcher (IJAIR 2026)
 
-• Published Research Paper in IJAIR (2026)
+• Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Generative AI and NLP
 
-• Passionate about research, innovation, and problem-solving
+• Building end-to-end AI applications using Python
 
-• Exploring emerging technologies and advanced AI concepts
+• Interested in Computer Vision, LLMs, Time Series Forecasting and Intelligent Systems
 
-• Aspiring to build impactful and intelligent real-world solutions
+• Open Source Contributor & Continuous Learner
+
+• Aspiring AI Engineer and Data Scientist
 
 ```
 <br/>
-<h2>🎓 Education</h2>
 
-```yaml
-Degree:
-  Bachelor of Science in Information Technology (B.Sc IT)
+## 🎓 Education
 
-Institution:
-  Sheth L.U.J. College of Arts &
-  Sir M.V. College of Science and Commerce
+| Degree | Institution | Duration | Location |
+|--------|-------------|----------|----------|
+| **Master of Science (M.Sc.) in Data Science** | **SVKM's Narsee Monjee Institute of Management Studies (NMIMS)** | **Currently Pursuing — Batch 2026** | Mumbai, India |
+| **Bachelor of Science (B.Sc.) in Information Technology** | **Sheth L. U. J. College of Arts & Sir M. V. College of Science and Commerce** | **2023 – 2026** | Mumbai, India |
 
-Duration:
-  2023 - 2026
+<br/>
 
-University:
-  University of Mumbai
-```
+## 📚 Currently Learning
+
+- Supervised Machine Learning
+- Mathematics for Data Science
+- Database Management Systems
+- Storytelling with Data
+- Research Methodology
 
 <br/>
 
@@ -130,7 +133,7 @@ Transformers, YOLO, and Generative AI implementations.
 
 <br/>
 
-## 📄 Research Publication
+## 📄 Research & Publications
 
 This repository accompanies the published research paper:
 
@@ -270,7 +273,12 @@ This repository accompanies the published research paper:
 
 <p align="center">
   <sub>
-    Turning ideas into intelligent solutions through Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.
+    Research • Build • Deploy • Learn • Repeat
+  </sub>
+</p>
+<p align="center">
+  <sub>
+    Turning research into intelligent AI solutions.
   </sub>
 </p>
 
