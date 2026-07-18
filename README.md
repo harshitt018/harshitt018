@@ -233,7 +233,7 @@ This repository accompanies the published research paper:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./github-metrics.svg" width="100%">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </p>
 
 <p align="center">
