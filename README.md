@@ -239,7 +239,7 @@ This repository accompanies the published research paper:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshitt018&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=harshitt018&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 </p>
 
 <p align="center">
