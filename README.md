@@ -233,9 +233,9 @@ This repository accompanies the published research paper:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshitt018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshitt018&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshitt018&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshitt018&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
