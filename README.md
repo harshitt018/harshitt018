@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  🎓 🎓 M.Sc. Data Science Student @ <a href="https://www.nmims.edu/">SVKM's NMIMS</a>, Mumbai
+  🎓 M.Sc. Data Science Student @ <a href="https://www.nmims.edu/">SVKM's NMIMS</a>, Mumbai
 </p>
 
 <p align="center">
